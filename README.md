@@ -1,4 +1,4 @@
-# [project : company sales using only Excel ](https://github.com/mo0Raslan/excel-sales)
+# [project : dashboard for world cuponly Excel ](https://github.com/mo0Raslan/Fifa-world-cup-final)
 in this project i used a dataset from kaggle and cleaned it and made some pivot tables 
 wrote the insihts and started to choose the appropriate charts
 
